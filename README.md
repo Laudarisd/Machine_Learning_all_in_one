@@ -41,3 +41,8 @@ Feel free to explore the projects in this repository, experiment with the code, 
 
 Ready to dive in? Check out the projects in this repository and start exploring the fascinating world of computer vision!
 
+
+
+## Reference
+
+https://huggingface.co/learn/computer-vision-course/en/unit5/generative-models/gans-vaes/stylegan
